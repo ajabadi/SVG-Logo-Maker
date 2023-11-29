@@ -37,9 +37,11 @@ Find the generated logo.svg in the specified directory.
 
 ## Additional Information 
 
-A [walkthrough video]([https://watch.screencastify.com/v/W4TaoCBrOgOYwoqeJDt3](https://watch.screencastify.com/v/F6SLd0SBd3qEZShn42mi)) to demostrate the functionality of the application will be provided, showcasing the user flow and response handling of the node index.js. 
+A [walkthrough video](https://watch.screencastify.com/v/F6SLd0SBd3qEZShn42mi) to demostrate the functionality of the application will be provided, showcasing the user flow and response handling of the node index.js. 
 
-### Sample logo ![Screen Shot 2023-11-28 at 18 47 45](https://github.com/ajabadi/SVG-Logo-Maker/assets/145517793/9206c0cb-8f5c-43c4-bc34-1d8b252a4364)
+### Sample logo 
+
+![Screen Shot 2023-11-28 at 18 47 45](https://github.com/ajabadi/SVG-Logo-Maker/assets/145517793/9206c0cb-8f5c-43c4-bc34-1d8b252a4364)
 <img width="893" alt="Screen Shot 2023-11-28 at 18 48 07" src="https://github.com/ajabadi/SVG-Logo-Maker/assets/145517793/fd906198-6184-44e4-b9a8-16626ecdf917">
 
 
